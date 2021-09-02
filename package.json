@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "parcel": "parcel src/index.html"
+    
   },
   "repository": {
     "type": "git",
